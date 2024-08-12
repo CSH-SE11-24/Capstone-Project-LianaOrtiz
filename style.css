@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#imagee2 {
+  margin-left: 120px;
+}
+
+
+#image5 {
+ width: 100vw !important;
+}
+
+#cont1{
+ background-color: #f9bf27;
+  border-style: double;
+  border-radius: 10px;
+  border-width: thick;
+}
+
+
+#titleoffeed {
+  text-align: center !important;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#button2 {
+  margin-bottom: 20px;
+  
+}
